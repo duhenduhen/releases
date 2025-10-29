@@ -1,0 +1,5 @@
+[29-10-2025]
+updated port base to .862 (october patch)
+switched to enforcing selinux
+rip oplus cam
+introduce linux flash script
