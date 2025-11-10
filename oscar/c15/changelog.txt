@@ -3,3 +3,8 @@ updated port base to .862 (october patch)
 switched to enforcing selinux
 rip oplus cam
 introduce linux flash script
+
+[10-11-2025]
+fixed windows flash script
+added back magisk boot image
+unlocked cn gms again
