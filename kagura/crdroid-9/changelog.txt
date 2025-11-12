@@ -1,0 +1,17 @@
+[10-10-2025]
+Initial crDroid 9.26 release
+[13-10-2025]
+Enable Live Display
+Overlay: Configure advanced reboot
+Overlay: Enable BPF offload
+[17-10-2025]
+Switch to new crDroid 9 fork > 9.32
+Bump security patch up to September
+Added PIF, support for hiding developer options
+thermanager: Drop charging throttling
+thermanager: Disable burn-out protection
+[12-10-2025]
+Enforcing SELinux
+ExFat fix
+Dropped extra VNDK (reduce rom size by ~80mb)
+Overlay: Correct WiFi Hotspot SSID default name
