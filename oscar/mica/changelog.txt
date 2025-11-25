@@ -1,0 +1,9 @@
+[19-11-2025]
+initial MicaOS release
+initial android 16 qpr1 build
+
+[25-11-2025]
+synced with latest sources
+some changes to dolby
+added ru and be translations to dolby manager
+reduced blur radius by 10%
