@@ -1,0 +1,5 @@
+[01-12-2025]
+initial color os 16 port
+permissive for now
+rebased over .1900 rmx3472 fw
+updated magisk to 30.5
