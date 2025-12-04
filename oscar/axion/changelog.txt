@@ -4,3 +4,7 @@ initial AxionOS 2.1 release
 [08-11-2025]
 synced with latest sources (AxionOS 2.2)
 added sony dolby
+
+[03-11-2025]
+synced with latest sources (AxionOS 2.2.1)
+updated dolby
