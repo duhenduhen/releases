@@ -8,3 +8,9 @@ added sony dolby
 [03-11-2025]
 synced with latest sources (AxionOS 2.2.1)
 updated dolby
+
+[06-01-2026]
+synced with latest sources (AxionOS 2.3-BETA)
+update blobs from RMX3660_15.0.0.1200
+set blur radius to 25dp
+reduce SurfaceFlinger idle timer to 80ms
