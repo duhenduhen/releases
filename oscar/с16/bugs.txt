@@ -1,0 +1,7 @@
+bugs:
+oplus live wallpapers
+auto refresh rate
+issues:
+oplus camera
+laggy a bit (tip: "su -c cmd package compile -m everything -a")
+permissive selinux
