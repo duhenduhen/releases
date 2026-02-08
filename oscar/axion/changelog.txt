@@ -17,3 +17,11 @@ reduce SurfaceFlinger idle timer to 80ms
 
 [10-01-2026]
 synced with latest sources (AxionOS 2.3)
+
+[08-02-2026]
+synced with latest sources (AxionOS 2.4)
+correct device name
+dropped hotword enrollment blobs
+enable full art optimizations
+add sysui reboot option
+some perfomance changes
