@@ -1,3 +1,3 @@
 udfps a.k.a fod, fingerprint
-glyphs (check workaround)
+stock glyphs impl - use dglyphs
 video capture on stock nos3.2 cam (tip: hold down the shutter button in photo mode)
