@@ -1,0 +1,6 @@
+[20-04-2026]
+rebased over Pong-B4.0-250928-2003
+updated some apps
+fixed nfc (on obt)
+fixed udfps
+dglyphs is now a settings entry (instead of launcher icon)

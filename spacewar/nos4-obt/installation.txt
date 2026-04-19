@@ -1,0 +1,4 @@
+make sure you on the latest stock
+1. disable avb by flashing vbmeta with flags (fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img)
+2. install permission controller fix module (if you are gonna use it through dsu)
+3. install DSU Sideloader and install .zip
