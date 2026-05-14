@@ -1,3 +1,5 @@
 1. reboot into fastbootd (fastboot/adb reboot fastboot)
 2. start .bat/.sh script and follow it
 3. wipe data
+
+if the super partition flashing failed, then flash it yourself in the bootloader

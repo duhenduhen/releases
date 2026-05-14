@@ -3,3 +3,11 @@ initial color os 16 port
 permissive for now
 rebased over .1900 rmx3472 fw
 updated magisk to 30.5
+
+[14-05-2025]
+updated to 16.07.200 plk110
+removed aod
+better debloat
+fixed flash script for linux
+updated magisk to 30.7
+some minor improvements
