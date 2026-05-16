@@ -25,3 +25,10 @@ dropped hotword enrollment blobs
 enable full art optimizations
 add sysui reboot option
 some perfomance changes
+
+[16-05-2026]
+synced with latest sources (AxionOS 2.6)
+merge kernel with lineageos sm8350 changes
+update common blobs and media configs from RMX3660_15.0.0.1620(EX01)
+switch to pdx235 68.2.A.3.107 adreno blobs
+clean up ueventd
