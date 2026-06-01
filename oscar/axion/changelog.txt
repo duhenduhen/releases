@@ -32,3 +32,13 @@ merge kernel with lineageos sm8350 changes
 update common blobs and media configs from RMX3660_15.0.0.1620(EX01)
 switch to pdx235 68.2.A.3.107 adreno blobs
 clean up ueventd
+
+[01-06-2026]
+synced with latest sources (AxionOS 2.7-BETA)
+merge kernel with lineageos sm8350 changes
+shut up some kernel logs
+set fcm level to 7
+.rc clean ups
+properties clean ups
+enable wifi optimized power management
+revert perf hwui flag
