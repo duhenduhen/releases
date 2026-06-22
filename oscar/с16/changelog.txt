@@ -11,3 +11,12 @@ better debloat
 fixed flash script for linux
 updated magisk to 30.7
 some minor improvements
+
+[22-06-2025]
+updated to 16.08.301 plk110
+oplus camera fix (w/o filters)
+fake enforcing patch
+switched to pdx235 adreno blobs
+import some props from cph2621
+import athena config from cph2621
+shut up some logs
