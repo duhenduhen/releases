@@ -4,3 +4,13 @@ merge kernel with lineageos sm8350 changes
 update common blobs and media configs from RMX3660_15.0.0.1620(EX01)
 switch to pdx235 68.2.A.3.107 adreno blobs
 clean up ueventd
+
+[15-05-2026]
+synced with latest crdroid sources
+merge kernel with lineageos sm8350 changes
+bump ksun and susfs to 3.3.0 and 2.2.0
+add nomount impl
+clean up propeties and init
+nuke some blobs
+configure aod
+some small changes im too lazy to write down
